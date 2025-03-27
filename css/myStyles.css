@@ -1,7 +1,7 @@
 /* General page styling */
 body {
     font-family: Arial, sans-serif;
-    background-color: #ffeaca; /* Light beige for a clean, neutral look */
+    background-color: #f5f5dc; /* Light beige for a clean, neutral look */
     color: #333;
     margin: 0;
     padding: 0;
@@ -39,7 +39,7 @@ section {
     margin: 20px auto;
     padding: 20px;
     max-width: 900px;
-    background: #ffeaca;
+    background: #f5f5dc;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     border-radius: 10px;
 }
@@ -71,7 +71,7 @@ iframe {
 footer {
     text-align: center;
     padding: 15px;
-    background-color: #ffeaca;
+    background-color: #f5f5dc;
     color: black;
     margin-top: 20px;
     border-radius: 10px 10px 0 0;
