@@ -53,7 +53,8 @@ h2 {
 /* Image styling */
 img {
     width: 100%;
-    max-width: 300px;
+    max-width: 200px;
+    max-height: 500px
     display: block;
     margin: 10px auto;
     border-radius: 10px;
