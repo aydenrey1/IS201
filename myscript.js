@@ -1,8 +1,8 @@
 // Array of riddles
 const riddles = [
-    { question: "What has keys but can't open locks?", answer: "piano" "a piano" },
-    { question: "What comes once in a minute, twice in a moment, but never in a thousand years?", answer: "the letter m" "m" "letter m" },
-    { question: "What has a head, a tail, but no body?", answer: "a coin" "coin" }
+    { question: "What has keys but can't open locks?", answer: "piano, a piano" },
+    { question: "What comes once in a minute, twice in a moment, but never in a thousand years?", answer: "the letter m, m, letter m" },
+    { question: "What has a head, a tail, but no body?", answer: "a coin, coin" }
   ];
   
   let currentRiddle = 0;
