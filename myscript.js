@@ -8,10 +8,12 @@ const riddles = [
   let currentRiddle = 0;
   
   // Show the current riddle
-  function showRiddle() {
-    document.getElementById("riddle").innerText = riddles[currentRiddle].question;
-    document.getElementById("result").innerText = ""; // Clear any previous result
-    document.getElementById("userAnswer").value = ""; // Clear input field
+window.onload = function() {
+    showRiddle();
+};
+        document.getElementById("riddle").innerText = riddles[currentRiddle].question;
+        document.getElementById("result").innerText = ""; // Clear any previous result
+        document.getElementById("userAnswer").value = ""; // Clear input field
   }
   
   // Check if the answer is correct
